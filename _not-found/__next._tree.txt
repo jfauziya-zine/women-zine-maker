@@ -1,2 +1,2 @@
-:HL["/women-zine-maker/_next/static/chunks/04w08hdaihm3h.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Bw46aJhCjiojzJAiHz5tM"}
+:HL["/women-zine-maker/_next/static/chunks/084wyic39~l6a.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"odgg_aeu4eSEsigohrKyQ"}
